@@ -1,0 +1,5 @@
+Facial Expression Recognizer Dataset:
+
+This is a cleaned version of original FER 2013 data. All inconsistencies are removed. This contains 5 emotion classes.
+
+https://www.kaggle.com/gauravsharma99/fer13-cleaned-dataset
