@@ -13,4 +13,4 @@ Contains PyTorch Notebooks on Computer Vision. (NLP soon)
 ### →  [Facial Expression Recognizer](https://github.com/jaisal1311/Deep-Learning/tree/master/Computer%20Vision/FER) 😅😓😱😩🥴
 
 
-If any issues, feel free to contact.
+If any issues, open an issues I'll fix it as soon as possible.🙂
