@@ -45,5 +45,6 @@ This collection of models is licensed under the MIT License - see the [LICENSE.m
 
 
 
-#### Feel free to use and modify/customize the models
-#### If any issues, open an issues I'll try to fix it as soon as possible.🙂
+#### Feel free to use and modify/customize the models.<br/>  If any issues, open an issues I'll try to fix it as soon as possible.🙂
+
+#### 
