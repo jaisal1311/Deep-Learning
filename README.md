@@ -28,6 +28,7 @@ Contains PyTorch Notebooks on Computer Vision. (NLP soon)
 
 ### →  [Facial Expression Recognizer](https://github.com/jaisal1311/Deep-Learning/tree/master/Computer%20Vision/FER) 😅😓😱😩🥴
 ### →  [CIFAR - 10](https://github.com/jaisal1311/Deep-Learning/tree/master/Computer%20Vision/CIFAR10) [✈, 🚗, 🦅, 🐱, 🦌, 🐶, 🐸, 🐎, 🚢, 🚚]
+### →  [MNIST - (val_acc = 97.81)](https://github.com/jaisal1311/Deep-Learning/tree/master/Computer%20Vision/MNIST) ✍
 
 <hr>
 
